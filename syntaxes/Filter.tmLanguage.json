@@ -60,7 +60,7 @@
 		"attribute": {
 			"patterns": [{
 				"name": "variable",
-				"match": "\\b(LinkedSockets|SetTextColor|SetBackgroundColor|SetBorderColor|SetFontSize|PlayAlertSound|BaseType|Class|Rarity|Prophecy|ItemLevel|DropLevel|Sockets|SocketGroup|Width|Height|StackSize|Quality|Corrupted|GemLevel|ShapedMap|ElderMap|Identified|HasExplicitMod|AnyEnchantment|HasEnchantment|ShaperItem|FracturedItem|SynthesisedItem|MinimapIcon|PlayEffect|ElderItem|CorruptedMods|DisableDropSound|MapTier|HasInfluence|AreaLevel)\\b"
+				"match": "\\b(LinkedSockets|SetTextColor|SetBackgroundColor|SetBorderColor|SetFontSize|PlayAlertSound|BaseType|Class|Rarity|Prophecy|ItemLevel|DropLevel|Sockets|SocketGroup|Width|Height|StackSize|Quality|Corrupted|GemLevel|ShapedMap|ElderMap|Identified|HasExplicitMod|AnyEnchantment|HasEnchantment|ShaperItem|FracturedItem|SynthesisedItem|MinimapIcon|PlayEffect|ElderItem|CorruptedMods|DisableDropSound|MapTier|HasInfluence|AreaLevel|AlternateQuality|Replica)\\b"
 			}]
 		},
 		"strings": {
